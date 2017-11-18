@@ -83,8 +83,8 @@ function passOver() {
             activePlayer = 0;
         current.textContent = '0';
         document.querySelector('.player-' + activePlayer + '-panel').classList.toggle('active');
-        document.querySelector('#dice1').style.display = 'none';
-        document.querySelector('#dice2').style.display = 'none';
+       // document.querySelector('#dice1').style.display = 'none';
+        //document.querySelector('#dice2').style.display = 'none';
         
     }
 }
