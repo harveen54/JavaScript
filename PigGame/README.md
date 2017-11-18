@@ -9,3 +9,9 @@ GAME RULES:
 - The first player to reach 50 points on GLOBAL score wins the game
 - To play a new game click on New game and all scores will be reset
 
+Challenges.js
+1. A player looses his round score when he rolls two 6 in a row. After that, it's the next player's turn. 
+2. Add an input field to the HTML where players can set the winning score, so that they can change the predefined score of 50.
+
+TwoDice.js
+1. There are two dices now. The player looses his current score when one of them is a 1. 
