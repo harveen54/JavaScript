@@ -24,7 +24,7 @@ function init() {
     roundScore = 0;
     stillPlaying = 0;
     previousDice = 0;
-    winningScore = 10;
+    winningScore = 50;
     document.getElementById('score-0').textContent = '0';
     document.getElementById('score-1').textContent = '0';
     document.getElementById('current-0').textContent = '0';
